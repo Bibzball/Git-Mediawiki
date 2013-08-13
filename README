@@ -1,0 +1,8 @@
+Git-Mediawiki
+=============
+
+Gate between git and mediawiki. This is an old version of the tool. For more recent versions, visit:
+
+- Git's source code, in contrib/mw-to-git/ for the tool itself
+
+- https://github.com/moy/Git-Mediawiki/wiki for user-manual and issue tracking.
